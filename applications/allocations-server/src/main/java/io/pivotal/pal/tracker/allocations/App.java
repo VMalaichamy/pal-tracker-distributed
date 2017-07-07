@@ -12,8 +12,6 @@ import org.springframework.web.client.RestOperations;
 import java.util.TimeZone;
 
 
-
-
 @EnableCircuitBreaker
 
 @EnableEurekaClient
